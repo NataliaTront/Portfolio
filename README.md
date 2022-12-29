@@ -8,7 +8,7 @@ Reading about software testing, I think it is a job which can combine my passion
 I start learning and I have hope to find my dream job. Here you can see my way becoming software tester.
 
 
-## 📫 Courses
-1. Wprowadzenie do testowania oprogramowania (Zachodniopomorska Szkoła Biznesu w Szczecinie - Navoica.pl)
-2. Bootcamp testerski - testowanie oprogramowania 2022 (Udemy.com)
+## 📖 Courses
+1.  [Wprowadzenie do testowania oprogramowania](https://www.google.com)
+2. [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania)
 3. Praktyczny kurs testowania oprogramowania (Udemy.com)
