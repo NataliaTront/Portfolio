@@ -16,7 +16,7 @@ When I was a student I got a job as office assistant. The most importnat thing I
 
 After few years I became a mom and start an employment brake. But it wasn't lazy time! I start my own litte "business" - sewing wool diapers as [Hearties](https://www.facebook.com/Hearties/). I needed to learn everything about production, Internet selling and contact with clients. It required me to `prioritize`, `self-denial` and `responsibility`.
 
-I decide to return a full time job but it didn't take long time because I had health problems and needed an operation. That's the moment when I start thinking about change my proffesion.
+I decide to return a full time job but it didn't take long time because I had health problems and needed an operation. That's the moment when I start thinking about change my proffesion. I'm healthy now ;)
 
 I think that my past experience gave me strong soft skills to doing software testing.
 
